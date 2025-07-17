@@ -53,6 +53,9 @@ return 0;
 }
 
 OUTPUT :
-enter the value of x 5
-enter the value of y 4
-the point is in 1st quadrant.
+enter the m1 89
+enter the m2 90
+enter the m3 89
+enter the m4 79
+enter the m5 75
+the grade is O
