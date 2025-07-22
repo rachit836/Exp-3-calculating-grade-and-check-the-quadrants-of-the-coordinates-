@@ -5,9 +5,7 @@ To study and implement different types of operators in C++.
 Tools Required:
 Visual Studio Code (VS Code)
 
-C++ Compiler (MinGW-w64)
 
-Terminal / Command Prompt
 
 Theory:
 Operators are special symbols in C++ used to perform operations on variables and values. C++ provides a rich set of built-in operators categorized as:
@@ -18,35 +16,35 @@ Used for mathematical operations.
 
 Examples: +, -, *, /, %
 
-cpp
-Copy
-Edit
+syntax:
 int a = 10, b = 5;
 int sum = a + b;
+
+
 2. Relational (Comparison) Operators
 
 Used to compare two values.
 
 Examples: ==, !=, <, >, <=, >=
 
-cpp
-Copy
-Edit
+syntax:
 if (a > b) {
     cout << "a is greater";
 }
+
+
 3. Logical Operators
 
 Used to combine conditional statements.
 
 Examples: &&, ||, !
 
-cpp
-Copy
-Edit
+syntax:
 if (a > b && b > 0) {
     // true if both conditions are true
 }
+
+
 4. Assignment Operators
 
 Assign values to variables.
@@ -59,15 +57,7 @@ Used to perform operations on bits.
 
 Examples: &, |, ^, ~, <<, >>
 
-6. Miscellaneous Operators
 
-sizeof: Returns the size of a variable
-
-?:: Ternary operator
-
-,: Comma operator
-
-&, *: Address and pointer operators
 
 Conclusion:
 By performing this experiment:
